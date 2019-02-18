@@ -1,0 +1,3 @@
+specify the username (and password if necessary) when connecting
+
+ssh user@ip
